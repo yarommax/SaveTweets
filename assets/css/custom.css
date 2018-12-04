@@ -1,0 +1,23 @@
+h1, h2 {
+    text-align: center;
+}
+
+#content {
+    margin-top: 40px;
+}
+.remove-tweet,
+.remove-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+
+
+
+li {
+    border-bottom: 1px solid rgb(209, 209, 209);
+    list-style:none;
+    padding: 5px 15px;
+    margin: 5px 0px 5px 0px;
+}
